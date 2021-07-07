@@ -1,6 +1,6 @@
 # Ford-GoBike-Data-Analysis
 
-As part of a Data Findings Project, I used the Ford GoBike 2017 dataset, which is provided online (https://www.fordgobike.com/system-data).
+Dataset used: the Ford GoBike 2017, which is provided online (https://www.fordgobike.com/system-data).
 
 The main objective of my analysis is to look at the behavior difference between customers and subscribers of the bike sharing system and use that to explain their behavioral patterns. 
 
